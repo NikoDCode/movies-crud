@@ -1,5 +1,7 @@
 # 🎬 Movies CRUD
 
+https://movies-crud-steel.vercel.app/movies
+
 A simple movie management application built with **React, JavaScript, and Vite**.
 
 This project demonstrates fundamental React concepts, including component-based architecture, state management with React Hooks, CRUD operations, and client-side routing.
